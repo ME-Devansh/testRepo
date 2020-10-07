@@ -1,5 +1,5 @@
 ## Welcome
 
-New line.
+This is new line.
 
 This is a test repository.
